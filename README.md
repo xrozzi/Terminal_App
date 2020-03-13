@@ -8,9 +8,10 @@ This program will show the user a menu list and the user can select from it.
 
 By pressing enter the program will initialize.
 
-I found a problem that selecting from the menu is not enough so the user has to enter the option manually as well.
 
 ![alt text](https://github.com/xrozzi/Terminal_App/blob/master/images/welcome.png)
+
+![alt text](https://github.com/xrozzi/Terminal_App/blob/master/images/deposit.png)
 ### Resources
 
 https://ttytoolkit.org/components/
