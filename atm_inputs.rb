@@ -6,6 +6,7 @@ require 'tty-progressbar'
 #This class will take user inputs and check if they're valid inputs
 # The valid inputs are 1, 2, 3, 4 if not, will show a message
 # Will no accept negative numbers
+# Or letters
 class UserInput
     def initialize
         @display = Messages.new
