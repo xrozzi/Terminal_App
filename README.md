@@ -9,9 +9,9 @@ This program will show the user a menu list and the user can select from it.
 By pressing enter the program will initialize.
 
 
-![alt text](https://github.com/xrozzi/Terminal_App/blob/master/images/welcome.png)
+![alt text](https://github.com/xrozzi/Terminal_App/blob/master/docs/welcome.png)
 
-![alt text](https://github.com/xrozzi/Terminal_App/blob/master/images/deposit.png)
+![alt text](https://github.com/xrozzi/Terminal_App/blob/master/docs/deposit.png)
 ### Resources
 
 https://ttytoolkit.org/components/
