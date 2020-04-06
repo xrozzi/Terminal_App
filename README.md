@@ -44,31 +44,42 @@ In order to run the program Ruby needs to be installed on user's computer.
 
 If user does not have Ruby already installed on their computer follow the next steps.
 
-1. Install Homebrew: By running the following command on the terminal <br/> 
-
+**1.** Install Homebrew: By running the following command on the terminal <br/> 
+```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
-2. Install rbenv: rbenv is a light weight Ruby version manager. Run the following command line on the terminal. <br/> 
+**2.** Install rbenv: rbenv is a light weight Ruby version manager. Run the following command line on the terminal. <br/> 
+```
 $   brew install rbenv
+```
 
-3. Install ruby: Follow the next command line on terminal. <br/> 
+**3.** Install ruby: Follow the next command line on terminal. <br/> 
+```
 $   rbenv install 2.6.3
+```
 
-4. Install git following this link <https://www.atlassian.com/git/tutorials/install-git> <br/> 
+**4.** Install git following this link <https://www.atlassian.com/git/tutorials/install-git> <br/> 
+```
 $   brew install git
+```
 
-5. Clone the Terminal_App repository from github. <br/> 
+**5.** Clone the Terminal_App repository from github. <br/> 
+```
 $   git clone https://github.com/xrozzi/Terminal_App.git
+```
 
-6. The following gem dependencies need to be installed. <br/> 
-
-$   gem install colorize
-$   gem install tty-prompt
-$   gem install tty-spinner
-$   gem 'tty-progressbar'
-
-7. Navigate to specified directory and run Your Nearest ATM
+**6.** The following gem dependencies need to be installed. <br/> 
+```
+$   gem install colorize <br/> 
+$   gem install tty-prompt <br/> 
+$   gem install tty-spinner <br/> 
+$   gem 'tty-progressbar' <br/> 
+```
+**7.** Navigate to specified directory and run Your Nearest ATM
+```
 $   ruby atm_main.rb
+```
 
 
 
@@ -77,5 +88,5 @@ $   ruby atm_main.rb
 ### Resources
 
 https://ttytoolkit.org/components/ <br/> 
-https://medium.com/@max.bautista97/ <br/> interactive-cli-command-line-interface-applications-with-ruby-gems-f5c2f67c43e9 <br/> 
+https://medium.com/@max.bautista97/interactive-cli-command-line-interface-applications-with-ruby-gems-f5c2f67c43e9 <br/> 
 https://www.rubydoc.info/gems/tty-prompt https://github.com/piotrmurach/tty-box https://rdoc.info/github/fazibear/colorize
