@@ -71,10 +71,10 @@ $   git clone https://github.com/xrozzi/Terminal_App.git
 
 **6.** The following gem dependencies need to be installed. <br/> 
 ```
-$   gem install colorize <br/> 
-$   gem install tty-prompt <br/> 
-$   gem install tty-spinner <br/> 
-$   gem 'tty-progressbar' <br/> 
+$   gem install colorize 
+$   gem install tty-prompt 
+$   gem install tty-spinner 
+$   gem 'tty-progressbar' 
 ```
 **7.** Navigate to specified directory and run Your Nearest ATM
 ```
